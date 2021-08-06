@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://lh3.googleusercontent.com/Ox0UsqDlTlbUXhbJ4Az3aLvXtF-B_tBNGAoit8y8sYCAlWH0vRrfUayORmrFTvZ-RTTlAUC2B8Lhiij9dQnnUFKEbzJ5F-sVJlBj5upyLHSrbywAtNhzjGA-Eic8V2CMJMb_pfArFGg76o9GE4ceV0Fwkj1HHwblGbBZVG6vS96VN7fg2xi3eNNEP93yltyGDGXUsLq9J-CQOoiE52OIOr7sBDYCToguJL0vwjBBJGq-BNYy3gl00Cu0fbY9TzgxoRqegqXAVbjPpAQdU7pMOyWogJ523HJBjKz_XsgIUjZvdc1I6OJOQP7g5TW8BeKUNlb778PYjyyIlRwRTsKrHts47K3AEUBU20W9ijM6GSyX8P_KvR7bK8UOLEFWpzVX2wCxKFNPp2_5lVIcMJ1wWxmGj2hFvTxh-qDBuiAEZVAAOlyNtF81iA5qh-MeM15Z_NbDmhyHCxqb8qBNnNuIf2TIKc0mTzJ-i40UfREwxV7uJc20cqMgjNApcq_ZxJ0ATM_0McFvSIMga2cQaDhoDf6mAT79pZ3L1XWRDyZwuEOj8iGvR94el_dogi4VqQFNMaOL_2rQrrKeiekzRaJNFyw1meMWMf8Y6MEntLf3sp0Q70oTKvnwPq9sSrWlc0xbQuEbdITPxbID-D307FdWyJzIa6GKdI05tnS1_cbjtV_UPrac-mqgl5ZfmRfJjpA3ILi-cJkmkjIBP3qEbq3I_x0=w1350-h903-no?authuser=0" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/bUGzzZG.png" height="175px"/></a>
 
 <h1 align="center"> Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Wizman Rofiansyah</h1>
 <h3 align="center">I'm a student at Telkom University.</h3>
